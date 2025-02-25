@@ -98,5 +98,3 @@ Principal of Computer Science, Discrete Math, Data Structures & Algorithms, Prog
 
 ## 📓 Data Science Courses
 Fundamentals of Data Science, Machine Learning, Big Data Programming, Data Mining
-
-## Work Experience
