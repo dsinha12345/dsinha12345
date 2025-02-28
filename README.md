@@ -54,6 +54,21 @@ Generative AI, NLP, LLM
 Librosa, IBM Watson, REST API
  
 </div>
+
+## 🔍 Current Areas of Research
+```mermaid  
+graph TD  
+    A[Research Focus] --> B[NeuroImaging]  
+    A --> C[AI for 911 call Predictions]  
+    A --> D[Character Recognition AI]  
+
+    B --> E[Wokring Memory Regression Model using VIT]  
+    C --> F[LSTM Regression Model]   
+    D --> G[Modi Script Character Recognition using CNN]  
+
+
+```
+
  
 ---
  
