@@ -105,9 +105,6 @@ graph TD
 - 📊 Implemented PCA and clustering techniques
 ---
  
- 
-
- 
 ## 📓 Computer Science Courses
 Principal of Computer Science, Discrete Math, Data Structures & Algorithms, Programming Level Concepts, Operating Systems, Software Engineering, System Level Programming, Computer Organization & Programming
 
