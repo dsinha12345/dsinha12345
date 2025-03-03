@@ -1,8 +1,6 @@
 <div align="center">
   
 # DEVANSH SINHA
- 
-  
 ![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=500&lines=AI+%26+ML+Engineer;Software+Engineer;Data+Engineer;)
 ---
 [![Email](https://img.shields.io/badge/Email-devanshmsinha@gmail.com-EA4335?style=flat-square)](mailto:devanshmsinha@gmail.com)
@@ -14,7 +12,6 @@
 </br></br>
  
 <div align="center">
- 
 ### Harnessing AI and data science to solve asymmetric real-world challenges, driving innovation across industries through intelligent, scalable, and high-impact solutions. 💡
  
 </div>
