@@ -35,8 +35,8 @@
 <div align="center">
  
 ### Core Technologies
-![Tech Stack](https://skillicons.dev/icons?i=py,html,css,js,django,react,nodejs,flask,java,c&theme=dark)
- 
+![Tech Stack](https://skillicons.dev/icons?i=python,html,css,js,django,react,nodejs,flask,java,cpp&theme=dark)
+
 ### Frameworks & Libraries
 ![Frameworks](https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,jquery&theme=dark)
  
