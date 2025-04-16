@@ -26,6 +26,7 @@
   🎯 B.S. in Computer Science & Data Science (May 2025)  
   📊 GPA: 4.13/4.3  
   🏆 President's List (7 consecutive semesters)
+  🏆 1st Price in Undergraduate Research Conference.
 
  
 ---
