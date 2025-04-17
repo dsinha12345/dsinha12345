@@ -72,7 +72,7 @@ graph TD
  
 ## Projects
  
-### 🏥 Corneal Ulcer Classification  
+### 🏥 Corneal Pathology Classification  
 *AI-Powered Diagnosis for Ophthalmology*  
 - 🏥 Trained YOLOv8 and ResNet50 for corneal ulcer detection  
 - 📸 Mask R-CNN for cornea segmentation  
