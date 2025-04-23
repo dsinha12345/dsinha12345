@@ -57,7 +57,7 @@ Librosa, IBM Watson, REST API
 ```mermaid  
 graph TD  
     A[Research Focus] --> B[NeuroImaging]  
-    A --> C[AI for 911 call Predictions]  
+    A --> C[DevOps AWS]  
     A --> D[Character Recognition AI]  
 
     B --> E[Wokring Memory Regression Model using VIT]  
