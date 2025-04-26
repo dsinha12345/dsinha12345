@@ -48,8 +48,8 @@ Harnessing AI and data science to solve asymmetric real-world challenges, drivin
  
 SQL, NoSQL, LangChain, Scrum (Agile), ETL
 Generative AI, NLP, LLM
- 
-Librosa, IBM Watson, REST API
+
+IBM Watson, REST API
  
 </div>
 
