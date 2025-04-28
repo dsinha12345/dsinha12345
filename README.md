@@ -49,7 +49,7 @@ Harnessing AI and data science to solve asymmetric real-world challenges, drivin
 SQL, NoSQL, LangChain, Scrum (Agile), ETL
 Generative AI, NLP, LLM
 
-AWS, GCP and Azure, and REST API
+AWS, GCP, Azure, and REST API
  
 </div>
 
