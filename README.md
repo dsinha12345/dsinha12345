@@ -61,7 +61,7 @@ graph TD
     A --> D[Character Recognition AI]  
 
     B --> E[Wokring Memory Regression Model using VIT]  
-    C --> F[AWS Lambda, AWS S3]   
+    C --> F[AWS Lambda, AWS S3 and AWS EC2]   
     D --> G[Modi Script Character Recognition using CNN]  
 
 
