@@ -97,7 +97,7 @@ graph TD
 - 🏗️ Deployed using AWS, Docker, and GitHub Actions for CI/CD
   
 ### 🧬 RNAseq Analysis  
-*Bioinformatics Pipeline for Gene Expression*  
+*Bioinformatics Pipeline for Differential Gene Expression*  
 - 🧫 Python & R-based statistical modeling  
 - 🔬 Analyzed differential gene expression  
 - 📊 Implemented PCA and clustering techniques
