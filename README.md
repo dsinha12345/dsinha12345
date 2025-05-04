@@ -39,14 +39,14 @@ Harnessing AI and data science to solve asymmetric real-world challenges, drivin
 ![Tech Stack](https://skillicons.dev/icons?i=python,html,css,js,django,react,nodejs,flask,java,cpp&theme=dark)
 
 ### Frameworks & Libraries
-![Frameworks](https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,jquery&theme=dark)
+![Frameworks](https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,jquery,nextjs&theme=dark)
  
 ### Infrastructure & Tools
 ![Tools](https://skillicons.dev/icons?i=aws,gcp,azure,git,docker,mongodb,postgres,kubernetes&theme=dark)
  
 ### Additional Expertise
  
-SQL, NoSQL, LangChain, Scrum (Agile), ETL
+SQL, NoSQL, LangChain, Scrum (Agile), MongoDB
 Generative AI, NLP, LLM
 
 AWS, GCP, Azure, and REST API
