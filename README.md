@@ -31,7 +31,7 @@ Harnessing AI and data science to solve asymmetric real-world challenges, drivin
  
 ---
  
-## 💻 Technical Arsenal
+## 💻 Technical Skills
  
 <div align="center">
  
