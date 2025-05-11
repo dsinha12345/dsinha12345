@@ -93,14 +93,14 @@ graph TD
 ### 🏦 Bank-CD Predictor  
 *Predicting Customer Enrollment in Certificates of Deposit*  
 - 📊 Built an end-to-end ML pipeline for financial predictions  
-- 🚀 Achieved 91% ROC-AUC by optimizing feature engineering and model tuning  
+- 🚀 Achieved 91% ROC-AUC by optimizing feature engineering and model tuning 
 - 🏗️ Deployed using AWS, Docker, and GitHub Actions for CI/CD
   
 ### 🧬 RNAseq Analysis  
 *Bioinformatics Pipeline for Differential Gene Expression*  
 - 🧫 Python & R-based statistical modeling  
 - 🔬 Analyzed differential gene expression  
-- 📊 Implemented PCA and clustering techniques
+- 📊 Implemented PCA and clustering techniques for further analysis
 ---
  
 ## 📓 Computer Science Courses
