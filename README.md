@@ -1,7 +1,7 @@
 <div align="center">
   
 # DEVANSH SINHA
-![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=500&lines=AI+%26+ML+Engineer;Software+Engineer;Data+Engineer;)
+![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=500&lines=AI+%26+ML+Engineer;Software+Engineer;Data+Scientist;)
 ---
 [![Email](https://img.shields.io/badge/Email-devanshmsinha@gmail.com-EA4335?style=flat-square)](mailto:devanshmsinha@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-devanshsinha-0A66C2?style=flat-square)](https://devanshsinha.com/)
