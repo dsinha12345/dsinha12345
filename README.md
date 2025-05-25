@@ -9,7 +9,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-dsinha12345-181717?style=flat-square&logo=github)](https://github.com/dsinha12345)
  
 </div>
-"hello"
 </br></br>
  
 <div align="center">
