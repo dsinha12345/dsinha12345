@@ -28,6 +28,8 @@ Harnessing AI and data science to solve asymmetric real-world challenges, drivin
   🏆 President's List (8 consecutive semesters)
   🏆 1st Price in Undergraduate Research Conference.
 
+Employed at Scott Law Firm
+
  
 ---
  
