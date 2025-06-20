@@ -80,7 +80,7 @@ graph TD
 ### 👗 StylePitch  
 *AI-Driven Fashion Validation Platform*  
 - 📱 Developed a cross-platform mobile application using React Native, Node.js, and Firebase  
-- 🎨 Enabled designers to showcase ideas with a voting system, reducing fashion waste by 50%  
+- 🎨 Enabled designers to showcase ideas with a voting system, reducing fashion waste by 50%.
 - 💡 Provided valuable feedback loops to improve sustainable fashion trends  
 
 ### 🔐 Beesafe-AI  
