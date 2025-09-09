@@ -15,7 +15,6 @@
 Harnessing AI and data science to solve real-world challenges, driving innovation across industries through intelligent, scalable, and high-impact solutions. 
  
 </div>
- 
 </br></br>
  
 ##  Education & Achievements
