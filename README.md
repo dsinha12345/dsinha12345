@@ -7,6 +7,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-devanshsinha-0A66C2?style=flat-square)](https://devanshsinha.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-devanshmohansinha-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/devanshmohansinha/)
 [![GitHub](https://img.shields.io/badge/GitHub-dsinha12345-181717?style=flat-square&logo=github)](https://github.com/dsinha12345)
+
 </div>
 </br></br>
  
