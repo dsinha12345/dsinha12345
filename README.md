@@ -23,7 +23,7 @@ Harnessing AI and data science to solve real-world challenges, driving innovatio
 - *Georgia State University*, Atlanta, GA  
    B.S. in Computer Science & Data Science (May 2025)  
    GPA: 4.14/4.3  
-   President's List (8 consecutive semesters)
+   8 President's List Honor
   
 - 1st Price in Undergraduate Research Conference.
 
