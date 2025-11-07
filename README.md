@@ -110,7 +110,7 @@ graph TD
 ---
  
 ##  Computer Science Courses
-Principal of Computer Science, Discrete Math, Data Structures & Algorithms, Programming Level Concepts, Operating Systems, Software Engineering, System Level Programming, Computer Organization & Programming
+Principal of Computer Science, Discrete Math, Data Structures & Algorithms, Programming Level Concepts, Operating Systems, Software Engineering, System Level Programming, Computer Organization & Programming .
 
 ##  Data Science Courses
 Fundamentals of Data Science, Machine Learning, Big Data Programming, Data Mining
