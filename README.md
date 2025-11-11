@@ -101,7 +101,6 @@ graph TD
 -  Built an end-to-end ML pipeline for financial predictions  
 -  Achieved 91% ROC-AUC by optimizing feature engineering and model tuning 
 - ️ Deployed using AWS, Docker, and GitHub Actions for CI/CD
-- 
   
 ###  RNAseq Analysis  
 *Bioinformatics Pipeline for Differential Gene Expression*  
