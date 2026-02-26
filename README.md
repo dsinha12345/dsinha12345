@@ -19,7 +19,7 @@ Harnessing AI and data science to solve real-world challenges, driving innovatio
  
 ##  Education & Achievements
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dsinha12345&layout=compact&theme=react&hide_border=true&count_private=true&cache_seconds=1800&v=2" width="320" alt="Top Languages">
+<img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dsinha12345&theme=github_dark" width="320" alt="Top Languages">
  
 - *Georgia State University*, Atlanta, GA  
    B.S. in Computer Science & Data Science (May 2025)  
