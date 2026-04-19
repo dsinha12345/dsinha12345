@@ -1,117 +1,110 @@
-<div align="center">
+  ---                                                                                                                                               
+                                                                                                                                                    
+  <div align="center">                                                                                                                              
+                                                                                                                                                    
+  # Devansh Sinha                                                                                                                                   
+
+![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=DC2626&center=true&vCenter=true&width=600&lines=AI+Engineer;Multi-Agent+LLM+Systems;Legal+Tech+Engineer;Published+ML+Researcher)                                           
+  [![Email](https://img.shields.io/badge/Email-devanshmsinha@gmail.com-EA4335?style=flat-square)](mailto:devanshmsinha@gmail.com)                   
+  [![Portfolio](https://img.shields.io/badge/Portfolio-devanshsinha.com-000000?style=flat-square)](https://devanshsinha.com/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-devanshmohansinha-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/devanshm
+  ohansinha/)                                                                                                                                       
+                                                                                                                                                    
+  </div>                                                                                                                                            
+                                                                
+  ---
+
+  ## What I Build                                                                                                                                   
   
-# DEVANSH SINHA
-![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=500&lines=AI+%26+ML+Engineer;Software+Engineer;Data+Scientist;)
----
+  I build multi-agent LLM systems, autonomous document processing pipelines, and enterprise AI automation — deployed and actively running
+   at a real law firm. Not demos. Not tutorials.                
+                                                                                                                                                    
+  - **5 AI microservices** on Google Cloud Run using Anthropic Claude API                                                                           
+  - **2-agent LLM system** (Chrome Extension + FastAPI) with SSE streaming and Firestore caching
+  - **87 Apex classes + 20+ LWC components** on Salesforce integrating Google Drive, Zoom, and RingCentral                                          
+  - **4 peer-reviewed publications** in Nature, NIH/NLM, and ARVO                                                                                   
+                                                                                                                                                    
+  ---                                                                                                                                               
+                                                                                                                                                    
+  ## Production Work                                            
 
-[![Email](https://img.shields.io/badge/Email-devanshmsinha@gmail.com-EA4335?style=flat-square)](mailto:devanshmsinha@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-devanshsinha-0A66C2?style=flat-square)](https://devanshsinha.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-devanshmohansinha-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/devanshmohansinha/)
-[![GitHub](https://img.shields.io/badge/GitHub-dsinha12345-181717?style=flat-square&logo=github)](https://github.com/dsinha12345)
-</div>
-
-</br></br>
-
-<div align="center">
-Harnessing AI and data science to solve real-world challenges, driving innovation across industries through intelligent, scalable, and high-impact solutions.  
-</div>
-</br></br>
- 
-##  Education & Achievements
-
-<img align="right" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dsinha12345&theme=github_dark" width="320" alt="Top Languages">
- 
-- *Georgia State University*, Atlanta, GA  
-   B.S. in Computer Science & Data Science (May 2025)  
-   GPA: 4.14/4.3  
-   8 President's List Honor
+  ### AI Legal Assistant
+  Production 2-agent LLM system: Claude Haiku intent classifier routing to specialized read/write agents. Chrome Extension (Manifest V3) + FastAPI
+  backend on Google Cloud Run with real-time SSE streaming, Firestore hybrid caching, and SOQL injection guardrails.                                
   
-- 1st Price in Undergraduate Research Conference.
-
+  `Claude API` `FastAPI` `Chrome Extension` `Firestore` `Cloud Run` `Python`                                                                        
+                                                                
+  ### AI Agents Suite                                                                                                                               
+  5 autonomous microservices: LLM-powered document-to-case matching with 2-stage hallucination detection, PDF/DOCX extraction with self-evaluating
+  retry loops, audio transcription via OpenAI Whisper + FFmpeg. Reduced document processing time by 90%.                                            
   
----
- 
-##  Technical Skills
- 
-<div align="center">
- 
-### Core Technologies
-![Tech Stack](https://skillicons.dev/icons?i=python,html,css,js,django,react,nodejs,flask,cpp&theme=dark)
-
-### Frameworks & Libraries
-![Frameworks](https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,jquery,nextjs&theme=dark)
- 
-### Infrastructure & Tools
-![Tools](https://skillicons.dev/icons?i=aws,gcp,azure,git,docker,mongodb,postgres,kubernetes&theme=dark)
- 
-### Additional Expertise
- 
-SQL, NoSQL, LangChain, Scrum (Agile), MongoDB
-Generative AI, NLP, LLM
-
-AWS, GCP, Azure, and REST API.
-
- 
-</div>
-
-##  Current Areas of Research
-```mermaid  
-graph TD  
-    A[Research Focus] --> B[NeuroImaging]  
-    A --> C[DevOps AWS]  
-    A --> D[Character Recognition AI]  
-
-    B --> E[Wokring Memory Regression Model using VIT]  
-    C --> F[AWS Lambda, AWS S3 and AWS EC2]   
-    D --> G[Modi Script Character Recognition using CNN]  
-
-
-```
-
- 
----
- 
-## Projects
- 
-### AI Chatbot with OpenRouter and Text-to-Speech
-*Full-stack chatbot with Conversational AI and Voice Synthesis*
-- Integrated OpenRouter/OpenAI for conversational AI
-- Implemented Google Cloud Text-to-Speech for voice output
-- Built with Next.js, React Server Components, and FFmpeg for audio processing
-
-###  Corneal Pathology Classification  
-*AI-Powered Classification for Ophthalmology*  
--  Trained YOLOv8 and ResNet50 for corneal severity detection  
--  Mask R-CNN for cornea segmentation  
--  Achieved high accuracy in ulcer grading  
-
-###  StylePitch  
-*AI-Driven Fashion Validation Platform*  
--  Developed a cross-platform mobile application using React Native, Node.js, and Firebase  
--  Enabled designers to showcase ideas with a voting system, reducing fashion waste by 50%.
--  Provided valuable feedback loops to improve sustainable fashion trends  
-
-###  Beesafe-AI  
-*Secure AI-Powered Password Manager*  
-- ️ Integrated Google’s Gemini AI for intelligent password generation  
--  Implemented two-step authentication for enhanced security  
-- ☁️ Hosted on AWS Amplify with Django backend and React frontend  
-
-###  Bank-CD Predictor  
-*Predicting Customer Enrollment in Certificates of Deposit*  
--  Built an end-to-end ML pipeline for financial predictions  
--  Achieved 91% ROC-AUC by optimizing feature engineering and model tuning 
-- ️ Deployed using AWS, Docker, and GitHub Actions for CI/CD
+  `Anthropic API` `OpenAI Whisper` `GraphQL` `Docker` `Flask` `FFmpeg`                                                                              
+                                                                
+  ### Salesforce Legal Platform                                                                                                                     
+  Enterprise Salesforce platform integrating Google Drive, Calendar, Zoom, and telephony APIs via OAuth 2.0. Real-time missed call tracking via
+  RingCentral webhooks, invoice approval system, and automated document migration.                                                                  
   
-###  RNAseq Analysis  
-*Bioinformatics Pipeline for Differential Gene Expression*  
--  Python & R-based statistical modeling  
--  Analyzed differential gene expression  
--  Implemented PCA and clustering techniques for further analysis
----
- 
-##  Computer Science Courses
-Principal of Computer Science, Discrete Math, Data Structures & Algorithms, Programming Level Concepts, Operating Systems, Software Engineering, System Level Programming, Computer Organization & Programming .
-
-##  Data Science Courses
-Fundamentals of Data Science, Machine Learning, Big Data Programming, Data Mining
+  `Apex` `LWC` `Google Drive API` `RingCentral` `OAuth 2.0` `Salesforce DX`                                                                         
+                                                                
+  ---                                                                                                                                               
+                                                                
+  ## Research
+  ### Mind-MemoryAI — 🥇 1st Place, Undergraduate Research Conference
+  Transformer model predicting children's working memory scores from MRI scans. RAG pipeline with fine-tuned LLaMA 2 (7B) reducing hallucinations by
+   65% vs. base model.                                                                                                                              
+                                                                                                                                                    
+  `PyTorch` `LLaMA 2` `RAG` `Hugging Face` `AWS` `Docker`       
+                                                                                                                                                    
+  ### Corneal Pathological Classifier — Published in Nature     
+  Fine-tuned CNN architectures (Mask R-CNN, ResNet, VGG) on 500+ corneal images achieving 92% accuracy in pathological stage detection.             
+                                                                                                                                       
+  `PyTorch` `Mask R-CNN` `Computer Vision` · [View Paper →](https://pubmed.ncbi.nlm.nih.gov/37683796/)                                              
+                                                                                                                                                    
+  ### Modi Script Character Recognition — Published                                                                                                 
+  Deep CNN model for recognizing handwritten Modi Script characters across 58 character classes.                                                    
+                                                                                                
+  `TensorFlow` `CNN` `Computer Vision` `Python`                                                                                                     
+                                                                                                                                                    
+  ---                                                                                                                                               
+                                                                                                                                                    
+  ## Publications                                               
+                 
+  | Journal | Paper |
+  |---|---|          
+  | **Nature** | Artificial intelligence derived grading of mustard gas induced corneal injury |
+  | **NIH / NLM** | Differential Gene Expression and PPI Network Profiling of Sulfur Mustard-Exposed Corneas |
+  | **ARVO** | RNA-Seq Analysis of Naïve and Sulfur Mustard Exposed Rabbit Corneas |                                                                
+  | **Journal** | Handwritten MODI Script Character Recognition Using a Deep CNN Model |                                                            
+                                                                                                                                                    
+  ---                                                                                                                                               
+                                                                                                                                                    
+  ## Tech Stack                                                 
+                                                                                                                                                    
+  **AI & LLM:** Anthropic Claude API · OpenAI API · Multi-Agent Systems · Prompt Caching · RAG · LangChain
+                                                                                                                                                    
+  **ML & Research:** PyTorch · TensorFlow · Vision Transformers · Mask R-CNN · CUDA · Hugging Face
+                                                                                                                                                    
+  **Cloud & Infra:** Google Cloud Run · AWS · Azure · Docker · Firestore · DynamoDB · GitHub Actions
+                                                                                                                                                    
+  **Salesforce:** Apex · Lightning Web Components · SOQL · Async Apex · Salesforce DX
+                                                                                                                                                    
+  **Languages:** Python · TypeScript · JavaScript · SQL · R · Apex
+                                                                                                                                                    
+  **Frameworks:** FastAPI · React · Node.js · Flask · GraphQL · OAuth 2.0
+                                                                                                                                                    
+  ---
+                                                                                                                                                    
+  ## Education                                                  
+                                                                                                                                                    
+  **B.S. Computer Science, Data Science Concentration** — Georgia State University (May 2025)
+  GPA: 4.14/4.3 · Summa Cum Laude · President's List (8×) · Delta Analytics Scholarship                                                             
+                                                                                       
+  ---                                                                                                                                               
+                                                                
+  <div align="center">                                                                                                                              
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dsinha12345&theme=github_dark" width="320"        
+  alt="Top Languages">                                                                                                                       
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dsinha12345&theme=github_dark" width="320" alt="Stats">        
+  </div>                                                        
+                                                                                                                                                    
+  --- 
