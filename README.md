@@ -6,7 +6,7 @@
 
 ![Typing Animation](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=4000&pause=1000&color=DC2626&center=true&vCenter=true&width=600&lines=AI+Engineer;Multi-Agent+LLM+Systems;Legal+Tech+Engineer;Published+ML+Researcher)                                           
   [![Email](https://img.shields.io/badge/Email-devanshmsinha@gmail.com-EA4335?style=flat-square)](mailto:devanshmsinha@gmail.com)                   
-  [![Portfolio](https://img.shields.io/badge/Portfolio-devanshsinha.com-000000?style=flat-square)](https://devanshsinha.com/)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-devanshsinha.com-000000?style=flat-square)](https://devanshsinha.vercel.app/)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-devanshmohansinha-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/devanshmohansinha/)                                                                                                                                       
                                                                                                                                                     
   </div>                                                                                                                                            
